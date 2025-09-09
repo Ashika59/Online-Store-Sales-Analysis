@@ -1,6 +1,11 @@
 # Online-Store-Sales-Analysis
 SQL mini project analysing online store sales to identify top customers, monthly revenue trends, and regional insights.
 
+**Purposes of the Project**
+The main goal of this project is to gain understanding from sales data, exploring the various factors that influence sales across different branches.
+
+# Analysis List:
+
 **Online Store Sales Analysis – Business Questions
 Customer Insights**
 
